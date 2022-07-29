@@ -1,0 +1,4 @@
+"The Handmaid's Tale" "Margaret Atwood"  "24/05/1985" "213" "200"
+"Becoming" "Michelle Obama" "15/3/2018" "342" "500"
+"Big Magic" "Elizabeth Gilbert" "26/06/2015" "133" "400"
+"The Confidence Code: The Science and Art of Self‑Assurance" "Claire Shipman and Katty Kay" "2009" "452" "600"
